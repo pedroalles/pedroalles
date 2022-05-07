@@ -45,6 +45,6 @@ Here are some ideas to get you started:
 <div>
 
   <a href = "mailto: pedroalles@gmail.com"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=E-mail&logoColor=white" target="_blank"></a>
-  <a href="www.linkedin.com/in/pedroalles" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/pedroalles/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
 </div>
